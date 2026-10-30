@@ -1,26 +1,26 @@
 # googlecc8fc3a44839ddf6
 
-এটি একটি নতুন project-এর প্রাথমিক repository। Project-এর codebase ধাপে ধাপে তৈরি ও উন্নত করা হবে।
+This is the initial repository for a new project. The codebase will be built and improved step by step.
 
-## বর্তমান অবস্থা
+## Current Status
 
-- Repository প্রস্তুত করা হয়েছে
-- মূল implementation শিগগিরই যোগ করা হবে
+- The repository is ready
+- The core implementation will be added soon
 
-## শুরু করার আগে
+## Getting Started
 
-Project-এর প্রয়োজনীয় setup এবং ব্যবহারের নিয়ম implementation যোগ হওয়ার পর এখানে লেখা হবে।
+Project setup and usage instructions will be added here after the implementation is available.
 
-## পরবর্তী পরিকল্পনা
+## Roadmap
 
-- Project-এর উদ্দেশ্য ও scope নির্ধারণ
-- প্রয়োজনীয় source code যোগ করা
-- Automated test এবং documentation তৈরি করা
+- Define the project's purpose and scope
+- Add the required source code
+- Add automated tests and documentation
 
 ## Contributing
 
-পরিবর্তনের আগে একটি issue বা discussion-এর মাধ্যমে প্রস্তাব জানানো ভালো। ছোট ও পরিষ্কার commit-এ কাজ জমা দিন এবং প্রয়োজনীয় documentation আপডেট করুন।
+Before making changes, open an issue or start a discussion when appropriate. Keep commits small and focused, and update the documentation when needed.
 
 ## License
 
-License নির্ধারণ করা হলে এই section-এ বিস্তারিত যোগ করা হবে।
+License details will be added here once a license is selected.
